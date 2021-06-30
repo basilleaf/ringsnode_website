@@ -87,7 +87,7 @@
       ])
       .set("geo", ["Geosciences (GEO)", "https://pds-geosciences.wustl.edu/"])
       .set("naif", [
-        "Navigation & Ancillary Information (NAIF)",
+        "Navigation & Ancillary Information Facility (NAIF)",
         "https://naif.jpl.nasa.gov/naif/",
       ])
       .set("ppi", [
